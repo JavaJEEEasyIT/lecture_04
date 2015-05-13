@@ -1,0 +1,21 @@
+>>>> GIT <<<<<<
+
+>>>>> Linux
+sudo apt-get update
+sudo apt-get install git
+
+>>> Windows
+http://git-scm.com/downloads
+http://gooseberrycreative.com/cmder/
+
+>>>>> Config GIT
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+git config --list
+
+
+>>>>> GITHUB <<<<<<<<
+
+
+
